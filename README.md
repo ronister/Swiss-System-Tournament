@@ -1,4 +1,3 @@
-# tournament
-Udacity - introduction to relational databases final project
+# Swiss system tournament
 
-swiss system tournament
+Udacity - introduction to relational databases final project
