@@ -1,3 +1,5 @@
 # Swiss system tournament
 
-Udacity - introduction to relational databases final project
+Udacity - Intro to Relational Databases using Python - final project.
+
+https://www.udacity.com/course/intro-to-relational-databases--ud197
